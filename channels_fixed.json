@@ -47,7 +47,7 @@
     {
         "name": "Star TV",
         "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/star-tv-seeklogo.png",
-        "url": "https://dogus.daioncdn.net/startv/startv_360p.m3u8",
+        "url": "https://dogus-live.daioncdn.net/startv/startv_360p-1772615230000.ts",
         "group": "Ulusal",
         "country": "TR",
         "is_premium": false,
@@ -164,7 +164,7 @@
     {
         "name": "TLC",
         "logo": "https://tv.ecanlitvizle.org/logo/tlc-tv.png",
-        "url": "https://dogus.daioncdn.net/tlc/tlc_360p.m3u8",
+        "url": "https://dogus-live.daioncdn.net/tlc/tlc/crea/30d25b81-9f15-49d9-9aef-887a097a41f5/395/395351570260218552_480p_02.ts",
         "group": "Eglence",
         "country": "TR",
         "is_premium": false,
@@ -218,7 +218,7 @@
     {
         "name": "CNN Turk",
         "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/cnnt%C3%BCrk.png",
-        "url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=Jrs0CDwj9GDx_iV3IDnxrA&e=1772120416",
+        "url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8",
         "group": "Haber",
         "country": "TR",
         "is_premium": false,
@@ -262,7 +262,7 @@
     },
     {
         "name": "NTV",
-        "logo": "http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png",
+        "logo": "https://img-puhutv.mncdn.com/media/img/content/23-01/26/ntv.png",
         "url": "https://dogus-live.daioncdn.net/ntv/ntv_360p-1772614570000.ts",
         "group": "Haber",
         "country": "TR",
