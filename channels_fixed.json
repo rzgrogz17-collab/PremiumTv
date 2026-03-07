@@ -208,8 +208,8 @@
     },
     {
         "name": "A Haber",
-        "logo": "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png",
-        "url": "http://65.108.239.207/ahaber/index.m3u8",
+        "logo": "https://st01.ahaber.com.tr/images/logo.png",
+        "url": "https://trkvz.daioncdn.net/ahaber/ahaber_1080p.m3u8",
         "group": "Haber",
         "country": "TR",
         "is_premium": false,
@@ -263,7 +263,7 @@
     {
         "name": "NTV",
         "logo": "https://img-puhutv.mncdn.com/media/img/content/23-01/26/ntv.png",
-        "url": "https://dogus-live.daioncdn.net/ntv/ntv_360p-1772614570000.ts",
+        "url": "https://dogus.daioncdn.net/ntv/ntv_360p.m3u8",
         "group": "Haber",
         "country": "TR",
         "is_premium": false,
