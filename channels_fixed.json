@@ -8,19 +8,28 @@
         "is_premium": false,
         "id": "8060782979103724075"
     },
-    {
-        "name": "ATV",
-        "logo": "https://iatv.tmgrup.com.tr/2024/09/09/atv-31-yasinda-1725873986146.jpg",
-        "url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1775559951&st=JujDTKbi63BTjSFZx29psA&sid=8b4nqgqk02pn&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3",
-        "group": "Ulusal",
+   {
+        "name": "Kanal 7 Avrupa",
+        "logo": "https://i.imgur.com/wlfyj5l.png",
+        "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
+        "group": "Ulusal - Yurt Disi",
         "country": "TR",
         "is_premium": false,
-        "id": "-898277792255513968"
+        "id": "2999196474163635093"
+    },
+   {
+        "name": "Power TV",
+        "logo": "http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png",
+        "url": "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
+        "group": "Muzik",
+        "country": "TR",
+        "is_premium": false,
+        "id": "-2980027544926245312"
     },
     {
         "name": "ATV Avrupa",
         "logo": "https://iaatv.tmgrup.com.tr/4ca481/190/107/0/0/2048/1151?u=https://iatv.tmgrup.com.tr/2026/01/05/atv-avrupa-yeni-yilda-hd-yayina-gecti-1767603644055.png",
-        "url": "http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8",
+        "url": "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p-1776877590.ts",
         "group": "Ulusal - Yurt Disi",
         "country": "TR",
         "is_premium": false,
@@ -115,15 +124,6 @@
         "country": "TR",
         "is_premium": false,
         "id": "-3521338372067556371"
-    },
-    {
-        "name": "Kanal 7 Avrupa",
-        "logo": "https://i.imgur.com/wlfyj5l.png",
-        "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
-        "group": "Ulusal - Yurt Disi",
-        "country": "TR",
-        "is_premium": false,
-        "id": "2999196474163635093"
     },
     {
         "name": "FLASH HABER",
@@ -583,15 +583,6 @@
         "country": "TR",
         "is_premium": false,
         "id": "-7263905153600816699"
-    },
-    {
-        "name": "Power TV",
-        "logo": "http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
-        "group": "Muzik",
-        "country": "TR",
-        "is_premium": false,
-        "id": "-2980027544926245312"
     },
     {
         "name": "Powerturk TV",
