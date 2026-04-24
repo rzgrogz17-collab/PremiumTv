@@ -9,17 +9,26 @@
         "id": "8060782979103724075"
     },
    {
-        "name": "Kanal 7 Avrupa",
-        "logo": "https://i.imgur.com/wlfyj5l.png",
-        "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
-        "group": "Ulusal - Yurt Disi",
+        "name": "Kanal 7",
+        "logo": "https://upload.wikimedia.org/wikipedia/hy/1/19/Kanal_7.png",
+        "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+        "group": "Ulusal",
         "country": "TR",
         "is_premium": false,
-        "id": "2999196474163635093"
+        "id": "-3521338372067556371"
+    },
+      {
+        "name": "NTV",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/ntv.jpg",
+        "url": "https://dogus.daioncdn.net/ntv/ntv_360p.m3u8",
+        "group": "Haber",
+        "country": "TR",
+        "is_premium": false,
+        "id": "-6705910433985931833"
     },
    {
         "name": "Power TV",
-        "logo": "http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/powertv.png",
         "url": "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
         "group": "Muzik",
         "country": "TR",
@@ -27,17 +36,8 @@
         "id": "-2980027544926245312"
     },
     {
-        "name": "ATV EURO",
-        "logo": "https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png",
-        "url": "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=wyjVlPr0F0dO5zNLHmFW2w&e=1777065938",
-        "group": "Ulusal - Yurt Disi",
-        "country": "TR",
-        "is_premium": false,
-        "id": "6781511861464602731"
-    },
-    {
         "name": "Show TV",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQgHP-1j3N7pRB7ys195F_TaWPgRD-sl9Rg&s",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/showtv.jpg",
         "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558",
         "group": "Ulusal",
         "country": "TR",
@@ -117,15 +117,6 @@
         "id": "-3303995943854890022"
     },
     {
-        "name": "Kanal 7",
-        "logo": "https://upload.wikimedia.org/wikipedia/hy/1/19/Kanal_7.png",
-        "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
-        "group": "Ulusal",
-        "country": "TR",
-        "is_premium": false,
-        "id": "-3521338372067556371"
-    },
-    {
         "name": "FLASH HABER",
         "logo": "https://i.ibb.co/F5FcvbZ/flash4ok.png",
         "url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8",
@@ -199,7 +190,7 @@
     },
     {
         "name": "TGRT Haber",
-        "logo": "https://i.imgur.com/PrxwKDw.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/trthaber.png",
         "url": "https://canli.tgrthaber.com/tgrt.m3u8",
         "group": "Haber",
         "country": "TR",
@@ -218,7 +209,7 @@
     {
         "name": "CNN Turk",
         "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/cnnt%C3%BCrk.png",
-        "url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8",
+        "url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_0_192/playlist.m3u8?&live=true&app=com.cnnturk&st=WcXnUpvOk5Fto5f50GQ1jw&e=1777050450",
         "group": "Haber",
         "country": "TR",
         "is_premium": false,
@@ -235,7 +226,7 @@
     },
     {
         "name": "Haberturk",
-        "logo": "http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/habert%C3%BCrk.jpg",
         "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
         "group": "Haber",
         "country": "TR",
@@ -244,7 +235,7 @@
     },
     {
         "name": "Haber Global",
-        "logo": "http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/HG.png",
         "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
         "group": "Haber",
         "country": "TR",
@@ -259,15 +250,6 @@
         "country": "TR",
         "is_premium": false,
         "id": "-6783155719264367607"
-    },
-    {
-        "name": "NTV",
-        "logo": "https://img-puhutv.mncdn.com/media/img/content/23-01/26/ntv.png",
-        "url": "https://dogus.daioncdn.net/ntv/ntv_360p.m3u8",
-        "group": "Haber",
-        "country": "TR",
-        "is_premium": false,
-        "id": "-6705910433985931833"
     },
     {
         "name": "ULKE TV",
@@ -1888,15 +1870,6 @@
         "country": "INT",
         "is_premium": false,
         "id": "5168352095034852150"
-    },
-    {
-        "name": "Esport3 (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/330px-Esport3.svg.png",
-        "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "group": "Andorra",
-        "country": "ES",
-        "is_premium": false,
-        "id": "-3401228191422278185"
     },
     {
         "name": "La 2 (1080p)",
@@ -60787,21 +60760,12 @@
     },
     {
         "name": "Esport3 (1080p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/330px-Esport3.svg.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/esport3.png",
         "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
         "group": "Spain",
         "country": "ES",
         "is_premium": false,
         "id": "7410026745051539246"
-    },
-    {
-        "name": "Esport3 (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/330px-Esport3.svg.png",
-        "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "group": "Spain",
-        "country": "ES",
-        "is_premium": false,
-        "id": "-3401228191422278185"
     },
     {
         "name": "Este Canal TV (576p)",
@@ -65673,15 +65637,6 @@
         "id": "-4383410064591941514"
     },
     {
-        "name": "Kanal 7 (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/0gq9xOm.png",
-        "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
-        "group": "Turkiye",
-        "country": "TR",
-        "is_premium": false,
-        "id": "5465772219407715956"
-    },
-    {
         "name": "Kanal 7 Avrupa (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/wlfyj5l.png",
         "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
@@ -66709,8 +66664,8 @@
     },
     {
         "name": "TV 8 (1080p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png",
-        "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+        "logo": "https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png",
+        "url": "https://tv8-live.daioncdn.net/tv8/tv8_1080p-1777039030000.ts?",
         "group": "Turkiye",
         "country": "TR",
         "is_premium": false,
