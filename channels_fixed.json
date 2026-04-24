@@ -118,7 +118,7 @@
     },
     {
         "name": "FLASH HABER",
-        "logo": "https://i.ibb.co/F5FcvbZ/flash4ok.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/FLASHABER.png",
         "url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8",
         "group": "Genel",
         "country": "TR",
@@ -163,7 +163,7 @@
     },
     {
         "name": "TV 100",
-        "logo": "http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/TV100.png",
         "url": "https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8",
         "group": "Ulusal",
         "country": "TR",
@@ -271,7 +271,7 @@
     },
     {
         "name": "360 TV",
-        "logo": "http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/360TV.png",
         "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
         "group": "Haber",
         "country": "TR",
@@ -307,7 +307,7 @@
     },
     {
         "name": "TVNET",
-        "logo": "http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/tvnet.png",
         "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
         "group": "Haber",
         "country": "TR",
@@ -388,7 +388,7 @@
     },
     {
         "name": "TRT Avaz",
-        "logo": "https://www.trtavaz.com.tr/Content/img/trt-avaz-logo-1280.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/trt%20avaz.jpg",
         "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
         "group": "Yurt Disi",
         "country": "TR",
@@ -397,7 +397,7 @@
     },
     {
         "name": "TRT Belgesel",
-        "logo": "http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/trtbelgesel.jpg",
         "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
         "group": "Belgesel",
         "country": "TR",
@@ -703,7 +703,7 @@
     },
     {
         "name": "TRT EBA TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/400px-TRT_EBA_TV_logo.svg.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/TRTEBA.png",
         "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
         "group": "Cocuk",
         "country": "TR",
@@ -712,7 +712,7 @@
     },
     {
         "name": "Baby TV",
-        "logo": "https://i.imgur.com/4BDJ5FT.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/BABY%20TV.png",
         "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
         "group": "Cocuk - Yurt Disi",
         "country": "TR",
