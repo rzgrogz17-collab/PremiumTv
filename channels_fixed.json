@@ -10,7 +10,7 @@
     },
    {
         "name": "Kanal 7",
-        "logo": "https://upload.wikimedia.org/wikipedia/hy/1/19/Kanal_7.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/KANAL7.png",
         "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
         "group": "Ulusal",
         "country": "TR",
@@ -100,8 +100,8 @@
     },
     {
         "name": "TV8",
-        "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/250px-Tv8_Yeni_Logo.png",
-        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/Tv8_Yeni_Logo.png",
+        "url": "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=8cvqjpa6k14n&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
         "group": "Ulusal",
         "country": "TR",
         "is_premium": false,
@@ -181,7 +181,7 @@
     },
     {
         "name": "TRT Haber",
-        "logo": "https://images.seeklogo.com/logo-png/26/2/trt-haber-logo-png_seeklogo-260968.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/trthaber.png",
         "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
         "group": "Haber",
         "country": "TR",
@@ -190,7 +190,7 @@
     },
     {
         "name": "TGRT Haber",
-        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/trthaber.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/TGRT.png",
         "url": "https://canli.tgrthaber.com/tgrt.m3u8",
         "group": "Haber",
         "country": "TR",
@@ -217,7 +217,7 @@
     },
     {
         "name": "Beyaz TV",
-        "logo": "http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/BEYAZTV.png",
         "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
         "group": "Haber",
         "country": "TR",
@@ -262,7 +262,7 @@
     },
     {
         "name": "24 TV",
-        "logo": "http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/24%20tv.jpg",
         "url": "https://tv.ensonhaber.com/tv24/tv24.m3u8",
         "group": "Haber",
         "country": "TR",
@@ -65635,15 +65635,6 @@
         "country": "TR",
         "is_premium": false,
         "id": "-4383410064591941514"
-    },
-    {
-        "name": "Kanal 7 Avrupa (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/wlfyj5l.png",
-        "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
-        "group": "Turkiye",
-        "country": "TR",
-        "is_premium": false,
-        "id": "-4272346132126738518"
     },
     {
         "name": "Kanal 12 (720p)",
