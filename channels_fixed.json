@@ -27,9 +27,9 @@
         "id": "-2980027544926245312"
     },
     {
-        "name": "ATV Avrupa",
-        "logo": "https://iaatv.tmgrup.com.tr/4ca481/190/107/0/0/2048/1151?u=https://iatv.tmgrup.com.tr/2026/01/05/atv-avrupa-yeni-yilda-hd-yayina-gecti-1767603644055.png",
-        "url": "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p-1776877590.ts",
+        "name": "ATV EURO",
+        "logo": "https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png",
+        "url": "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=wyjVlPr0F0dO5zNLHmFW2w&e=1777065938",
         "group": "Ulusal - Yurt Disi",
         "country": "TR",
         "is_premium": false,
@@ -47,7 +47,7 @@
     {
         "name": "Show TV Max",
         "logo": "https://i.imgur.com/456FWA7.png",
-        "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8",
+        "url": "https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1777028159&st=JJcJjH2lcC1Aedr216TbMg&tv=1",
         "group": "Ulusal - Yurt Disi",
         "country": "TR",
         "is_premium": false,
@@ -56,7 +56,7 @@
     {
         "name": "Star TV",
         "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/star-tv-seeklogo.png",
-        "url": "https://dogus-live.daioncdn.net/startv/startv_360p-1772615230000.ts",
+        "url": "https://dogus.daioncdn.net/startv/startv_360p.m3u8?&sid=8cuv6nmvm65k&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
         "group": "Ulusal",
         "country": "TR",
         "is_premium": false,
@@ -65,7 +65,7 @@
     {
         "name": "Eurostar",
         "logo": "https://i.imgur.com/kb165Ot.png",
-        "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8",
+        "url": "https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=MrmdLvG_MJ1NK_P8b5pgxA&e=1777107464",
         "group": "Ulusal - Yurt Disi",
         "country": "TR",
         "is_premium": false,
@@ -73,7 +73,7 @@
     },
     {
         "name": "Kanal D",
-        "logo": "https://images.seeklogo.com/logo-png/30/2/kanal-d-logo-png_seeklogo-309050.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/KANAL%20D.png",
         "url": "http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8",
         "group": "Ulusal",
         "country": "TR",
@@ -82,7 +82,7 @@
     },
     {
         "name": "Euro D",
-        "logo": "http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/EUROD.jpg",
         "url": "http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
         "group": "Ulusal - Yurt Disi",
         "country": "TR",
@@ -136,7 +136,7 @@
     },
     {
         "name": "A2",
-        "logo": "https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/a2TV.jpg",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
         "group": "Eglence",
         "country": "TR",
@@ -154,8 +154,8 @@
     },
     {
         "name": "DMAX",
-        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/dmax.png",
-        "url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/DMAX.png",
+        "url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=QnRnUzIrSWhueU9YaE1zTFM5aHE2NUJtRzJCNWJheWR0QlU2ZDliNVdrOD0=&sid=8cuwaareuoct&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3",
         "group": "Eglence-Belgesel",
         "country": "TR",
         "is_premium": false,
@@ -164,7 +164,7 @@
     {
         "name": "TLC",
         "logo": "https://tv.ecanlitvizle.org/logo/tlc-tv.png",
-        "url": "https://dogus-live.daioncdn.net/tlc/tlc/crea/30d25b81-9f15-49d9-9aef-887a097a41f5/395/395351570260218552_480p_02.ts",
+        "url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=QXdjdHlxL3pBcGhNRHYwNG1SdW02WXhqNEllNmpMYXhrd2h5ZkN2ODNVbz0=&sid=8cuwfhgqzx0j&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3",
         "group": "Eglence",
         "country": "TR",
         "is_premium": false,
@@ -181,7 +181,7 @@
     },
     {
         "name": "TRT Turk",
-        "logo": "https://images.seeklogo.com/logo-png/40/2/trt-turk-logo-png_seeklogo-407667.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/TRTT%C3%BCRK.jpg",
         "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
         "group": "Ulusal ",
         "country": "TR",
@@ -271,7 +271,7 @@
     },
     {
         "name": "ULKE TV",
-        "logo": "https://i.imgur.com/wdWR7Qk.png",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/ulketv.png",
         "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
         "group": "Haber",
         "country": "TR",
@@ -875,7 +875,7 @@
   {
         "name": "Первый канал",
         "logo": "https://i.imgur.com/1IqCGe9.png",
-        "url": "https://cdn11.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash1-12hFrag-hd-4-20251203T155721_000910202.mp4",
+        "url": "https://stream.1tv.ru/api/com-inject.json?r=7981135",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -884,7 +884,7 @@
     {
         "name": "Россия 1",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png",
-        "url": "https://cdn11.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash1-12hFrag-hd-2-20251203T155721init.mp4",
+        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -911,7 +911,7 @@
     {
         "name": "Россия-Культура",
         "logo": "https://i.imgur.com/S12gaLc.png",
-        "url": "https://player.smotrim.ru/iframe/stream/live_id/19201",
+        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8",
         "group": "Kültür",
         "country": "RU",
         "is_premium": false,
@@ -920,7 +920,7 @@
     {
         "name": "Россия-24",
         "logo": "https://i.imgur.com/tpqsFzm.png",
-        "url": "https://player.smotrim.ru/iframe/stream/live_id/21",
+        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8",
         "group": "Haber",
         "country": "RU",
         "is_premium": false,
@@ -929,8 +929,8 @@
     {
         "name": "Карусель",
         "logo": "https://i.imgur.com/4fFMlVq.png",
-        "url": "https://streaming102.interskytech.com/live/232.m3u8",
-        "group": "Çocuk",
+        "url": "https://coldvideo.karusel-tv.ru/media/video/video/20260420/177667774024929822_3339294_Navigator_Novosti_Vypusk_1371.mp4",
+        "group": "Children",
         "country": "RU",
         "is_premium": false,
         "id": "200000000008"
@@ -938,34 +938,16 @@
     {
         "name": "ОТР",
         "logo": "https://i.imgur.com/QyZvT3e.png",
-        "url": "https://streaming.televizor-24-tochka.ru/live/12.m3u8",
+        "url": "https://inventos.cdnvideo.ru/o/otr_1/240p/1777/01/62/1777016208964.ts?cachetype=live&s=gqGZ_eIEhRlEU3a_2yqIqw&e=1777016817",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
         "id": "200000000009"
     },
     {
-        "name": "ТВ Центр",
-        "logo": "https://i.imgur.com/ZP0D6Rd.png",
-        "url": "http://ott-cdn.ucom.am/s54/index.m3u8",
-        "group": "Rusya",
-        "country": "RU",
-        "is_premium": false,
-        "id": "200000000010"
-    },
-    {
-        "name": "Рен ТВ",
-        "logo": "https://i.imgur.com/18TAzYV.png",
-        "url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
-        "group": "Rusya",
-        "country": "RU",
-        "is_premium": false,
-        "id": "200000000011"
-    },
-    {
         "name": "Спас",
         "logo": "https://i.imgur.com/A6Cqsom.jpeg",
-        "url": "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8",
+        "url": "https://tvspas.mediacdn.ru/cdn/spas/tracks-v3a1/2026/04/24/07/40/47-06000.ts",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -974,7 +956,7 @@
     {
         "name": "СТС",
         "logo": "https://i.imgur.com/y9bpqUD.png",
-        "url": "http://ott-cdn.ucom.am/s52/04.m3u8",
+        "url": "https://top-b-02.ctc.ru/vod/dash/fta/DERfFaNaQzbs1_4gyujFFw/271857c8ff4240a3024b54cce2af9eb7-,hd10,hd20,hd30,hd40,.mp4.urlset/init-f3-v1-x3.mp4",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -983,20 +965,11 @@
     {
         "name": "Домашний",
         "logo": "https://i.imgur.com/e8wlMIt.png",
-        "url": "http://ott-cdn.ucom.am/s88/index.m3u8",
+        "url": "https://edge-b-05.ctc.ru/vod/hls/fta/s9cs8Vy8jUZtOl5hj5fk7w/eb086e6697dd47f809395c5965664574-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f4-v1-a1.m3u8",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
         "id": "200000000014"
-    },
-    {
-        "name": "ТВ-3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%A2V3_logo_2023.svg/556px-%D0%A2V3_logo_2023.svg.png",
-        "url": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
-        "group": "Rusya",
-        "country": "RU",
-        "is_premium": false,
-        "id": "200000000015"
     },
     {
         "name": "Пятница!",
@@ -1018,21 +991,12 @@
     },
     {
         "name": "Мир",
-        "logo": "https://i.imgur.com/L2slsbG.png",
-        "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg",
+        "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
         "id": "200000000018"
-    },
-    {
-        "name": "ТНТ",
-        "logo": "https://i.imgur.com/1WqIPOB.png",
-        "url": "http://ott-cdn.ucom.am/s19/index.m3u8",
-        "group": "Eğlence",
-        "country": "RU",
-        "is_premium": false,
-        "id": "200000000019"
     },
     {
         "name": "Муз-ТВ",
@@ -1044,36 +1008,18 @@
         "id": "200000000020"
     },
     {
-        "name": "РБК",
-        "logo": "https://i.imgur.com/P2Qii5B.png",
-        "url": "http://92.50.128.180/utv/1358/index.m3u8",
-        "group": "Haber",
-        "country": "RU",
-        "is_premium": false,
-        "id": "200000000021"
-    },
-    {
         "name": "CGTN Pусский",
         "logo": "https://i.imgur.com/fMsJYzl.png",
-        "url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
+        "url": "hhttps://english-livebkali.cgtn.com/live/encgtn_077001.ts",
         "group": "Haber",
         "country": "RU",
         "is_premium": false,
         "id": "200000000023"
     },
     {
-        "name": "Euronews",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
-        "url": "https://www.youtube.com/euronewsru/live",
-        "group": "Haber",
-        "country": "RU",
-        "is_premium": false,
-        "id": "200000000024"
-    },
-    {
         "name": "РТР-Планета",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png",
-        "url": "https://player.smotrim.ru/iframe/stream/live_id/63251",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/%D0%A0%D0%A2%D0%A0-RU.jpg",
+        "url": "md5=rT8lNk2Xoq878wM14SFuTw&e=1777040700&hls_proxy_host=70b013ca21e8364cd537747cf862272b",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -1189,8 +1135,8 @@
     },
     {
         "name": "Мир Белогорья",
-        "logo": "https://i.imgur.com/CCNAg7R.png",
-        "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/%D0%9C%D0%B8%D1%80%20%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%8C%D1%8F.png",
+        "url": "https://tvbelgorod.ru:90/mirbelogorya/tracks-v1a1/mono.ts.m3u8",
         "group": "Yerel",
         "country": "RU",
         "is_premium": false,
@@ -1199,7 +1145,7 @@
     {
         "name": "Москва 24",
         "logo": "https://i.imgur.com/gXbUMVy.png",
-        "url": "https://player.smotrim.ru/iframe/stream/live_id/1661",
+        "url": "https://www.m24.ru/trans/air/480p.m3u8?e=1777032000&s=myne4CBzeFaCWI1r3Ahxlw",
         "group": "Haber",
         "country": "RU",
         "is_premium": false,
