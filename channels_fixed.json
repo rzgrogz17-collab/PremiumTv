@@ -857,16 +857,25 @@
   {
         "name": "Первый канал",
         "logo": "https://i.imgur.com/1IqCGe9.png",
-        "url": "https://stream.1tv.ru/api/com-inject.json?r=7981135",
+        "url": "https://swarm-yod.teleport.media/v1/",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
         "id": "200000000001"
     },
+      {
+        "name": "CGTN Pусский",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/960px-CGTN.png",
+        "url": "https://russian-liveali-h5.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8?wsSecret=bd9408e1641c3f2a1e84a6a596c005d6&wsTime=1788729060",
+        "group": "Haber",
+        "country": "RU",
+        "is_premium": false,
+        "id": "200000000023"
+    },
     {
         "name": "Россия 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png",
-        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8",
+        "logo": "https://cdn.smotrim.ru/photobank/prod/large/901/583/2.png",
+        "url": "https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -893,7 +902,7 @@
     {
         "name": "Россия-Культура",
         "logo": "https://i.imgur.com/S12gaLc.png",
-        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8",
+        "url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/track_103_319a299f/chunklist.m3u8",
         "group": "Kültür",
         "country": "RU",
         "is_premium": false,
@@ -902,25 +911,16 @@
     {
         "name": "Россия-24",
         "logo": "https://i.imgur.com/tpqsFzm.png",
-        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8",
+        "url": "https://live.smotrim.ru/vgtrk/0/russia24-hd/720p.m3u8",
         "group": "Haber",
         "country": "RU",
         "is_premium": false,
         "id": "200000000007"
     },
     {
-        "name": "Карусель",
-        "logo": "https://i.imgur.com/4fFMlVq.png",
-        "url": "https://coldvideo.karusel-tv.ru/media/video/video/20260420/177667774024929822_3339294_Navigator_Novosti_Vypusk_1371.mp4",
-        "group": "Children",
-        "country": "RU",
-        "is_premium": false,
-        "id": "200000000008"
-    },
-    {
         "name": "ОТР",
         "logo": "https://i.imgur.com/QyZvT3e.png",
-        "url": "https://inventos.cdnvideo.ru/o/otr_1/240p/1777/01/62/1777016208964.ts?cachetype=live&s=gqGZ_eIEhRlEU3a_2yqIqw&e=1777016817",
+        "url": "https://www.megacdn.ru/o/otr_2/720p/1788/72/84/1788728409264.ts",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -929,7 +929,7 @@
     {
         "name": "Спас",
         "logo": "https://i.imgur.com/A6Cqsom.jpeg",
-        "url": "https://tvspas.mediacdn.ru/cdn/spas/tracks-v3a1/2026/04/24/07/40/47-06000.ts",
+        "url": "https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -938,7 +938,7 @@
     {
         "name": "СТС",
         "logo": "https://i.imgur.com/y9bpqUD.png",
-        "url": "https://top-b-02.ctc.ru/vod/dash/fta/DERfFaNaQzbs1_4gyujFFw/271857c8ff4240a3024b54cce2af9eb7-,hd10,hd20,hd30,hd40,.mp4.urlset/init-f3-v1-x3.mp4",
+        "url": "https://ctc.ru/api/page/v2/online/",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -947,7 +947,7 @@
     {
         "name": "Домашний",
         "logo": "https://i.imgur.com/e8wlMIt.png",
-        "url": "https://edge-b-05.ctc.ru/vod/hls/fta/s9cs8Vy8jUZtOl5hj5fk7w/eb086e6697dd47f809395c5965664574-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f4-v1-a1.m3u8",
+        "url": "https://static-api.mediavitrina.ru/v1/epg/domashniy_ext/ad-injections_web.json",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -965,7 +965,7 @@
     {
         "name": "Звезда",
         "logo": "https://i.imgur.com/c0L0ncA.png",
-        "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
+        "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -973,8 +973,8 @@
     },
     {
         "name": "Мир",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg",
-        "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8",
+        "logo": "https://am.mir24.tv/og_image_300x300.png",
+        "url": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
         "group": "Rusya",
         "country": "RU",
         "is_premium": false,
@@ -988,15 +988,6 @@
         "country": "RU",
         "is_premium": false,
         "id": "200000000020"
-    },
-    {
-        "name": "CGTN Pусский",
-        "logo": "https://i.imgur.com/fMsJYzl.png",
-        "url": "hhttps://english-livebkali.cgtn.com/live/encgtn_077001.ts",
-        "group": "Haber",
-        "country": "RU",
-        "is_premium": false,
-        "id": "200000000023"
     },
     {
         "name": "РТР-Планета",
@@ -1051,15 +1042,6 @@
         "country": "RU",
         "is_premium": false,
         "id": "200000000030"
-    },
-    {
-        "name": "Ветта 24",
-        "logo": "https://i.imgur.com/zKH1b5k.png",
-        "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
-        "group": "Yerel",
-        "country": "RU",
-        "is_premium": false,
-        "id": "200000000031"
     },
     {
         "name": "Волгоград 24",
@@ -1117,7 +1099,7 @@
     },
     {
         "name": "Мир Белогорья",
-        "logo": "https://raw.githubusercontent.com/rzgrogz17-collab/ogz_tvlogo/refs/heads/main/%D0%9C%D0%B8%D1%80%20%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%8C%D1%8F.png",
+        "logo": "https://mirbelogorya.ru/templates/bootstrap/images/logo-mb-circle.png",
         "url": "https://tvbelgorod.ru:90/mirbelogorya/tracks-v1a1/mono.ts.m3u8",
         "group": "Yerel",
         "country": "RU",
@@ -1125,17 +1107,8 @@
         "id": "200000000038"
     },
     {
-        "name": "Москва 24",
-        "logo": "https://i.imgur.com/gXbUMVy.png",
-        "url": "https://www.m24.ru/trans/air/480p.m3u8?e=1777032000&s=myne4CBzeFaCWI1r3Ahxlw",
-        "group": "Haber",
-        "country": "RU",
-        "is_premium": false,
-        "id": "200000000039"
-    },
-    {
         "name": "Нижний Новгород 24",
-        "logo": "https://i.imgur.com/ZWgPVIC.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/ru/a/a1/%D0%9D%D0%9D%D0%A2%D0%92_%28%D0%B3._%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%29_%282018%29.png",
         "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
         "group": "Yerel",
         "country": "RU",
