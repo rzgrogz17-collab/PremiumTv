@@ -55658,7 +55658,7 @@
     {
         "name": "ОТР",
         "logo": "https://i.imgur.com/VaWlnjZ.png",
-        "url": "https://streaming.televizor-24-tochka.ru/live/12.m3u8",
+        "url": "https://vsd288.okcdn.ru/hls/2837282490880.m3u8/sig/C6MOQq3zmh4/expires/1788888912418/srcIp/176.237.42.162/urls/185.180.203.109/clientType/0/srcAg/CHROME/mid/5880800026112/2837282490880_high/index.m3u8",
         "group": "Russia",
         "country": "INT",
         "is_premium": false,
@@ -55675,8 +55675,8 @@
     },
     {
         "name": "Первый канал",
-        "logo": "https://i.imgur.com/RUSX0rX.png",
-        "url": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
+        "logo": "https://ministar.ru/upload/iblock/314/qt445vk5z1gorc0it90b0ug98ndotiv8.png",
+        "url": "https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-2k_v5.m3u8",
         "group": "Russia",
         "country": "INT",
         "is_premium": false,
@@ -56305,8 +56305,8 @@
     },
     {
         "name": "ТВ Центр",
-        "logo": "https://i.postimg.cc/KcgtT9C7/tvcentr.png",
-        "url": "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/TV_Tsentr_Logo.svg/250px-TV_Tsentr_Logo.svg.png",
+        "url": "https://vsd123.okcdn.ru/hls/10725655251531_5892.m3u8/sig/Rhg3RQMvJ1U/expires/1788889181491/srcIp/176.237.42.162/urls/178.237.23.113/clientType/0/srcAg/CHROME/mid/11431932468811/video.m3u8?p",
         "group": "Russia",
         "country": "INT",
         "is_premium": false,
